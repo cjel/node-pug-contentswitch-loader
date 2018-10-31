@@ -9,6 +9,8 @@
   "author": "Philipp Dieter <philipp.dieter@attic-media.de>",
   "license": "ISC",
   "dependencies": {
-    "lorem-ipsum": "^1.0.6"
+    "loader-utils": "^1.1.0",
+    "lorem-ipsum": "^1.0.6",
+    "schema-utils": "^1.0.0"
   }
 }
